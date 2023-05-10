@@ -5,7 +5,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Tabela Campeonato**
 | :label: Tecnologias | HTML, CSS, Javascript
-| :rocket: URL         | 
+| :rocket: URL         | https://ti-eeepdjmm.github.io/tabela-campeonato-brasileiro/
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
