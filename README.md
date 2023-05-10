@@ -1,7 +1,7 @@
 # Site Tabela Brasileirão 2023
 
 
-| :placard: Vitrine.Dev |     |
+| :placard: Detalhes do Projeto |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Tabela Campeonato**
 | :label: Tecnologias | HTML, CSS, Javascript
@@ -9,7 +9,7 @@
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/rickalves/orgs-app/blob/main/src/assets/logo.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/ti-eeepdjmm/tabela-campeonato-brasileiro/blob/main/assets/img/tabela-campeonato-preview.jpg)
 
 ## Detalhes do projeto
 ![](https://img.shields.io/badge/status-Em_desenvolvimento-brightgreen)
